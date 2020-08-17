@@ -11,27 +11,38 @@ A metodologia de aprendizado é com base em desafios e projetos práticos. Além
 
 Para ingressar no programa é necessário passar por um processo seletivo, em que os candidatos participam de um desafio proposto que avalia a capacidade de resolver problemas. 
 
-O desafio para ingresso nessa aceleração foi preciso criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para aprovação o modelo enviado deveria atingir o score maior ou igual a 90%. O desafio submetido consta neste portófio em: [https://github.com/Dlyra/predicao_nota_matematica_enem_2016](https://github.com/Dlyra/predicao_nota_matematica_enem_2016) .
+Nessa versão da aceleração o desafio foi criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para aprovação o modelo enviado deveria atingir o score maior ou igual a 90%. 
+O desafio submetido e aprovado consta no meu repositório em:[https://github.com/Dlyra/predicao_nota_matematica_enem_2016](https://github.com/Dlyra/predicao_nota_matematica_enem_2016) 
 
 Repositório Github da Codenation: [https://github.com/codenation-dev/Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online)
 
 ## Estrutura 
 
-O programa é composto por 14 módulos disponibilizado semanalmente. 
  Início: 09/06/2020  e Término: 10/08/2020.
+O programa é composto por 10 módulos e seus desafios disponibilizado semanalmente . 
 
 ## Desafios Práticos
 
-Os notebook dos desafios práticos serão submetidos neste repositório por semana, conforme o cronograma do programa de aceleração.  
+Os notebook's dos desafios práticos serão submetidos neste repositório por semana, conforme o cronograma do programa de aceleração.  
 
-Todos os conjunto de dados utilizados nas análises dos desafios estão disponível no diretório chamado *dataset*.
+Todos os conjuntos de dados utilizados nas análises dos desafios estão disponíveis no diretório chamado _dataset_.
+
+ - [x] Quiz de Perguntas -  Tipo de Análise de Dados e Projetos em Data Science -  Score: 86%.
+ - [x] Desafio 1 - Pré-Processamento de Dados em Python - Score: 100%.
+ - [x] Desafio 2 - Estatística Descritiva - Score: 100%.
+ - [x] Desafio 3 - Distribuições de Probabilidade - - Score: 100%.
+ - [x] Desafio 4 - Testes de Hipóteses - Score: 100%.
+ - [x] Desafio 5 - Redução de Dimensionalidade - Score: 100%.
+ - [x] Desafio 6 -  Feature Engineering - - Score: 100%.
+ - [x] Desafio 7 - Prever Nota de Matemática do ENEM de 2016 - Score: 93.803521%.
+ - [x] Desafio 8 - Descubra quem fez o ENEM em 2016 apenas para treino - Score: 99.649891%.
 
 ## Requisitos
 
 Python 3.x
 Jupyter Lab ou Notebook
 
-No arquivo *requirements.txt* consta todos os os requisitos necessário para execução dos notebooks, e será atualizado conforme os desafios. 
+No arquivo _requirements.txt_ consta todos os os requisitos necessários para a execução dos notebooks, e será atualizado conforme os desafios propostos. 
 
 O processo de instalação utilizando para este projeto foi o pip, caso esteja utilizando o conda pesquise como instalar os requirements na documentação do conda.
 
@@ -39,5 +50,3 @@ O processo de instalação utilizando para este projeto foi o pip, caso esteja u
 pip install pip --upgrade
 pip install -r requirements.txt
 ```
-
-
